@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>475790173646-b5snivqjdplepijp5auosfj9dt5coqci.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.475790173646-b5snivqjdplepijp5auosfj9dt5coqci</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCv4xp29nyx2NoKpvyZLJAGZbUXXtglQIQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>475790173646</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ir4ever.rise.estacionei</string>
+	<key>PROJECT_ID</key>
+	<string>estacionei-17a63</string>
+	<key>STORAGE_BUCKET</key>
+	<string>estacionei-17a63.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:475790173646:ios:f2d0c1f232834462cbf79f</string>
+</dict>
+</plist>

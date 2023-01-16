@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "475790173646",
+    "project_id": "estacionei-17a63",
+    "storage_bucket": "estacionei-17a63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475790173646:android:3705499404b4d22dcbf79f",
+        "android_client_info": {
+          "package_name": "com.ir4ever.rise.estacionei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475790173646-oel09unbe861bdrgte764f6kvelg8ups.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ir4ever.rise.estacionei",
+            "certificate_hash": "091cfe07fcc42419951d323a2c608acbf378550b"
+          }
+        },
+        {
+          "client_id": "475790173646-0c9k8uh19ouljktba6au1io014btteii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZRzxgNdATmpGDDIboM_TL6tNnq3g8SEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475790173646-0c9k8uh19ouljktba6au1io014btteii.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475790173646-b5snivqjdplepijp5auosfj9dt5coqci.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ir4ever.rise.estacionei"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
